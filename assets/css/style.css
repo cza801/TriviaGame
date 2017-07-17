@@ -1,0 +1,9 @@
+body {
+	background-image: url(../images/questionmarks.jpg);
+}
+
+.panelimage {
+	background-color: lightgrey;
+	opacity: .9;
+
+}

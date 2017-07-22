@@ -19,10 +19,10 @@ $(document).ready(function(){
 	});
 	
 	//This will store the correct, or incorrect answer, on the click of the radio button. 
-	$("#response")on("click", function() { 
-		if () ; 
+	// $("#response").on("click", function() { 
+	// 	if () ; 
 
-	});
+	// });
 
 
 	//This is the timer, and once the timer gets to 0, an alert will pop up, and stop the timer. 
